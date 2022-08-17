@@ -1,6 +1,6 @@
 name = "TulipIndicators_jll"
 uuid = "b73d36f2-ba1b-519d-99df-fa501440d401"
-version = "0.9.1+0"
+version = "0.9.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

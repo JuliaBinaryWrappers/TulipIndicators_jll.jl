@@ -1,143 +1,143 @@
 [[TulipIndicators]]
 arch = "aarch64"
-git-tree-sha1 = "ed5efb6e241a10bcde4affa56348b62c99438f63"
+git-tree-sha1 = "7aa445ea4b10f5a1c8e8f76933e6a822b68d57e5"
 os = "macos"
 
     [[TulipIndicators.download]]
-    sha256 = "b12d1bbce43bf6e274dc86c29a570e909d5c56f5a6d414f6348fb971e3846525"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "5c86a1be013e24a65f42fb5cc56cf129670ad7fe8d9a2b01f3e0e9ab1ab0b8ef"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.aarch64-apple-darwin.tar.gz"
 [[TulipIndicators]]
 arch = "aarch64"
-git-tree-sha1 = "9990a8c1c60020676e4ad3bdfcd9a31fde9c1cf2"
+git-tree-sha1 = "1f3121710e6d8318b17bde5e169a64896e1e46d5"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "81b3a0dd3b38fd2cbb93d219748f4d10229f91a2a042be97540f6b3d04c1c55f"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "f3828e2726d43cd7acd130e2a0a95dbd5d8f51c147502c307d3391d279d7fa13"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.aarch64-linux-gnu.tar.gz"
 [[TulipIndicators]]
 arch = "aarch64"
-git-tree-sha1 = "de99267718925bb4d2f2e11a42db3d4b53b72296"
+git-tree-sha1 = "e9aa0a736f3d1eb707c93a3a65e7f8dc159c7f0f"
 libc = "musl"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "0e3997f7c37c39ba6dbce4be7418fe323b719e8e006be38cd53fe9960ac0d1c7"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.aarch64-linux-musl.tar.gz"
+    sha256 = "99795c3750017e3547142ef4c3a2b613e0e38a61f395f71d64cbd6ae4f426e9f"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.aarch64-linux-musl.tar.gz"
 [[TulipIndicators]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d973b64ea8a17f7369eeac953e4fae3c018baeb8"
+git-tree-sha1 = "8622bdea9e9da53937f5145c36a45415daf1f316"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "eeb91296a598916584614b1263dcc696f9857ed0bb1089ab3649812de9456c14"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "e12a1a62255b3ecc4b766d7b28732e6679e2799402ea1b1b1dc4c79f0c735303"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.armv6l-linux-gnueabihf.tar.gz"
 [[TulipIndicators]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a4594740d2d2a53e07699c76cf7e698de3407eca"
+git-tree-sha1 = "177020405cc23ee6e7520ca5af1b549e70e2d7b8"
 libc = "musl"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "8ac4ec94bf1ebe2c5fd2b7c0973d3b796bf016c4a7f2ad14094e3c4941d29e43"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "1e5e1a9dc157467159ea671a0006bef94dbe1d09ac4eeb44b76a0a1a9a1af638"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.armv6l-linux-musleabihf.tar.gz"
 [[TulipIndicators]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e11b1deb0c2a9d555b7c5088bd23638ca8a4fbc3"
+git-tree-sha1 = "270b8a75224e3bcd0fbb8660407afc7fedca9f07"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "8f4112e8e255dff92393c47ff6bd597c6d28789627092b5c4c6a7b7170cde931"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "0bec6241627fc9d7cf5231c8ebb93f269275ee0c82357e5fe883c3b511625505"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.armv7l-linux-gnueabihf.tar.gz"
 [[TulipIndicators]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b66e8b4cc17ef894a798c07b4848fd99a91de2fe"
+git-tree-sha1 = "57e8b72682da4da1d4de6ffd1d108532049a4f9f"
 libc = "musl"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "6b1ffe59865009d7ccee5a0b70f91d9f0586cf8a5df8ae1210fb6bc9f276f535"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "907aaa2387d346e982f8c193307691c7c2bc751f7ec9cb1bf2fd9aeb3b536d1b"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.armv7l-linux-musleabihf.tar.gz"
 [[TulipIndicators]]
 arch = "i686"
-git-tree-sha1 = "e0051dcb9d814c975ebc1d4b7e73004513cd8b0c"
+git-tree-sha1 = "867379afd1ccf64fbe5edf02d0c9532279ca9670"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "ed940d6f7d66d5d274a0bbe6ce2c24c2ebbcc90f69b27538506b2da8430e4309"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.i686-linux-gnu.tar.gz"
+    sha256 = "e3acac59d9bf655f7ed33304dba29ddd1236b846437dc9a4ccc289658a35cd56"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.i686-linux-gnu.tar.gz"
 [[TulipIndicators]]
 arch = "i686"
-git-tree-sha1 = "a98e3f71b783b4e2fa56f52a62b84ab815627317"
+git-tree-sha1 = "69667a63ee392ab2f043990f0fd2135bc90f303b"
 libc = "musl"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "29ff8e6abdbc19899cb6a4bf0c3aa1cc72741c38c02cd6f86173d60eac702570"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.i686-linux-musl.tar.gz"
+    sha256 = "5f2c9059e784570ff35355e5fccc6379a9ca3a21799b64d197f401ab41df3494"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.i686-linux-musl.tar.gz"
 [[TulipIndicators]]
 arch = "i686"
-git-tree-sha1 = "72de62a6165c1ed3c4ac3eeb4f47bcef820b4159"
+git-tree-sha1 = "a7ac4deff1be151d996ac80973ca322cca0cd916"
 os = "windows"
 
     [[TulipIndicators.download]]
-    sha256 = "f74ff14611cce331582d777e7f2477c5d8bfa407b0c1fc05a24b1f706ab29378"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.i686-w64-mingw32.tar.gz"
+    sha256 = "9d5e04f7aaa62227c914b935ec2626f494004a17ded5d1c63e96a079cd35853d"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.i686-w64-mingw32.tar.gz"
 [[TulipIndicators]]
 arch = "powerpc64le"
-git-tree-sha1 = "972a8b1d96431977b863e23ef15f198b3c752083"
+git-tree-sha1 = "8c07b903dad6de8b38d1403cd306272b562c9877"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "c6351249abfd29f71c7a4affc67f2b2509df7ff141881ec68c9fabf140852ca5"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6be894fb3225a7a0420dca582c28aff823e67deb9d526e02e9c65045d9ba2c67"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.powerpc64le-linux-gnu.tar.gz"
 [[TulipIndicators]]
 arch = "x86_64"
-git-tree-sha1 = "b4200a5e4daf05fdbe4bf8b600e99c3ad5eb6b6f"
+git-tree-sha1 = "68fe2ff5a42200a24d4d9e5feda88820637a6b6d"
 os = "macos"
 
     [[TulipIndicators.download]]
-    sha256 = "cc097edfc6e30d4bd5d407fb7cdf3dec3f4b94dc82c734cb17937bc598fcee8e"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "469a339182d2db8f5447eeecf62490ffb19df325918f06a68121790a748697a4"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.x86_64-apple-darwin.tar.gz"
 [[TulipIndicators]]
 arch = "x86_64"
-git-tree-sha1 = "510f9de8ffe6ccd0792faab9c8db2c5519573a3e"
+git-tree-sha1 = "6a042d9159dfc1bfe2d2f087572ceb6913d2a825"
 libc = "glibc"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "3f5576955371c6178b9d7998c9a60fedef2e9680200e161faf70b08a745d1259"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "ac3a25240276583b2a67beb2806686bdf61e7d01e5150defc2ccea33104b19b6"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.x86_64-linux-gnu.tar.gz"
 [[TulipIndicators]]
 arch = "x86_64"
-git-tree-sha1 = "795fc3f1c0911371ad69483c84159fa10ca9bc7c"
+git-tree-sha1 = "da01d6cfc30707059901db3762fe0dc5980df456"
 libc = "musl"
 os = "linux"
 
     [[TulipIndicators.download]]
-    sha256 = "6e3acbc25c9bd036653537d52a352c42ff38e1efb4e01bb0e618ef5606d59e44"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.x86_64-linux-musl.tar.gz"
+    sha256 = "199877fb708fd4074d9476343715589986a80e838781ccf9dbec0bad3a8bca82"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.x86_64-linux-musl.tar.gz"
 [[TulipIndicators]]
 arch = "x86_64"
-git-tree-sha1 = "9f3c3edf09c43e4637e8318f84c756c647e6bdd6"
+git-tree-sha1 = "78f6bb2c220f961825a3c653b78d8e60f4e10685"
 os = "freebsd"
 
     [[TulipIndicators.download]]
-    sha256 = "d4e45ec0b309fd9e14c8ea6cada572e3e7247fd0eb856a4f6684f0e24a5335af"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "31f59b31753d0798f2ebdcaba6349a8e4c2c025f05c24cea5699636406a7ec19"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.x86_64-unknown-freebsd.tar.gz"
 [[TulipIndicators]]
 arch = "x86_64"
-git-tree-sha1 = "8dfb419e10cf44853ca45c35107f84c572407b26"
+git-tree-sha1 = "8370fc488e830b9ffe177a086e814cbd05f6b82f"
 os = "windows"
 
     [[TulipIndicators.download]]
-    sha256 = "f13dac401d4d82538aca8be10b02fa967a4743f31c5cb34f46f48a6c417213c2"
-    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+0/TulipIndicators.v0.9.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a1d9263f6996498ea39a29b8d7476f422baed1fb86805ea9622864e3c11d2cc8"
+    url = "https://github.com/JuliaBinaryWrappers/TulipIndicators_jll.jl/releases/download/TulipIndicators-v0.9.1+1/TulipIndicators.v0.9.1.x86_64-w64-mingw32.tar.gz"
